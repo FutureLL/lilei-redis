@@ -1,0 +1,3 @@
+# Project exclude paths
+/redisjedis/target/
+/springboot-redis/target/
